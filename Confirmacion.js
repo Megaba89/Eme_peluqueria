@@ -1,0 +1,1 @@
+confirm("¿Desea obtener un turno?")

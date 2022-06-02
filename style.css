@@ -1,0 +1,49 @@
+body{
+	background-image: url("fondo.jpg");
+	background-position:center center ;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	/*background-color: #999;*/
+}
+
+header,footer{
+    background-color: #B21D3D;
+	font-style: italic;
+	border-style:double ;
+	padding: 5px;
+	color: #000000;
+	text-align: center;
+}
+
+nav a{
+	color:#000000;
+	font-size: 30px;
+	font-style: italic;
+	border-style: solid;/*coloco borde a los enlaces*/
+	text-decoration: none;
+}
+main,h3, p, ul, table, form{
+	font-style: italic;
+	font-size: 20px;
+	text-align: center;
+}
+
+.redes {
+	text-align: center;
+	font-style: italic;
+	font-weight: bold;
+}
+.social{
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.social li{
+	display: inline-block;
+}
+.tabla img{
+	width: 200px;
+	height: 200px;
+
+}
